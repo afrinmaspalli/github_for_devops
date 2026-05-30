@@ -9,3 +9,6 @@ to push the code from local to github
 create repository
 git remote ser -url origin https://pat @github.com/profile with .git
 git push origin master
+
+
+This are some new changes
