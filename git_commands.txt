@@ -1,4 +1,4 @@
-git init  --->> ti initialize empty repository
+git init  --->> to initialize empty repository
 git status  --->> to see the status of the file
 git add filename/git add .  --->> to add the file from untracked to staged
 git commit -m "added testing files" --->> to commit the changes
