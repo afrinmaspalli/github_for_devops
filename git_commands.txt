@@ -4,3 +4,8 @@ git add filename/git add .  --->> to add the file from untracked to staged
 git commit -m "added testing files" --->> to commit the changes
 git restore filename  --->> to restore the files
 git rm -cached filename -->> from staged to untracked
+
+to push the code from local to github
+create repository
+git remote ser -url origin https://pat @github.com/profile with .git
+git push origin master
